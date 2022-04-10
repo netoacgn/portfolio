@@ -5,8 +5,6 @@ import CSS from '../assets/images/css.png';
 import JavaScript from '../assets/images/javascript.png';
 import ReactImg from '../assets/images/react.png';
 import Node from '../assets/images/node.png';
-import FireBase from '../assets/images/firebase.png';
-import AWS from '../assets/images/aws.png';
 import GitHub from '../assets/images/github.png';
 import Tailwind from '../assets/images/tailwind.png';
 import Mongo from '../assets/images/mongo.png';
