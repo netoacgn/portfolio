@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "autoprefixer": "^10.4.2",
     "debug": ">=3.1.0",
-    "nth-check": ">=2.0.1",
     "postcss": "^8.4.8",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -49,8 +48,5 @@
     "postcss": "^8.4.12",
     "react-scripts": "^5.0.1",
     "tailwindcss": "^3.0.23"
-  },
-  "resolutions": {
-    "nth-check": "2.0.1"
   }
 }
